@@ -48,7 +48,6 @@ C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\CaelumEstoque.
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\EntityFramework.dll
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\EntityFramework.SqlServer.dll
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Helpers.dll
-C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Mvc.dll
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Razor.dll
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Webpages.Deployment.dll
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Webpages.dll
@@ -60,7 +59,6 @@ C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Web
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Webpages.Deployment.xml
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Webpages.Razor.xml
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Helpers.xml
-C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\bin\System.Web.Mvc.xml
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.csprojResolveAssemblyReference.cache
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.dll
 C:\Projetos\estudos-alura-asp-net\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.pdb
